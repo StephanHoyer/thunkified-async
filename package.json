@@ -1,0 +1,24 @@
+{
+  "name": "thunkified-async",
+  "version": "0.1.0",
+  "description": "Thunkified version of async lib",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/StephanHoyer/thunkified-async"
+  },
+  "keywords": [
+    "async",
+    "thunk",
+    "co"
+  ],
+  "author": "Stephan Hoyer <ste.hoyer@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "async": "~0.2.10",
+    "thunkify": "0.0.1"
+  }
+}

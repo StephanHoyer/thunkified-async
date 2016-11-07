@@ -18,7 +18,7 @@
   "author": "Stephan Hoyer <ste.hoyer@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "async": "~0.2.10",
-    "thunkify": "0.0.1"
+    "async": "~2.1.2",
+    "thunkify": "2.1.2"
   }
 }
